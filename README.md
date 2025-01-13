@@ -1,4 +1,4 @@
-# House Price Prediction Project
+# House Price Prediction
 
 This project uses machine learning techniques to predict house prices based on various features like size, rooms, and location.
 
